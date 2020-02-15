@@ -1,4 +1,5 @@
 <h1 align="center">:video_game: Platform Game</h1>
+
 <p align="center">Project of a simple 2D game developed using Godot Engine.</p>
 
 <p align="center">
@@ -11,6 +12,10 @@
   <a aria-label="Versão do Godot" href="https://godotengine.org/">
     <img src="https://img.shields.io/badge/godot-3.2-informational?logo=godot-engine"></img>
   </a>
+</p>
+
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/43749971/74579165-9227b600-4f77-11ea-9db1-15925c8581a0.png">
 </p>
 
 
