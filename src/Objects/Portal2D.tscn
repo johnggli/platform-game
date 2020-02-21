@@ -90,3 +90,4 @@ __meta__ = {
 autoplay = "START"
 anims/START = SubResource( 2 )
 anims/fade_in = SubResource( 3 )
+[connection signal="body_entered" from="." to="." method="_on_body_entered"]
