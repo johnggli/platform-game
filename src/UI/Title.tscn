@@ -1,0 +1,13 @@
+[gd_scene format=2]
+
+[node name="Title" type="Label"]
+anchor_left = 0.5
+anchor_right = 0.5
+margin_left = -63.5
+margin_top = 246.78
+margin_right = 63.5
+margin_bottom = 260.78
+text = "My first godot game"
+__meta__ = {
+"_edit_use_anchors_": false
+}
