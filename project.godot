@@ -24,6 +24,10 @@ config/name="platform-game"
 run/main_scene="res://src/Screens/MainScreen.tscn"
 config/icon="res://icon.png"
 
+[autoload]
+
+PlayerData="*res://src/Autoload/PlayerData.tscn"
+
 [display]
 
 window/size/width=1920
